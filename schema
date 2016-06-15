@@ -1,0 +1,3 @@
+c0 -wd /home/cbilder/src/PVFSProject master
+c1 -wd /home/cbilder/src/PVFSProject slave
+c2 -wd /home/cbilder/src/PVFSProject slave
